@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":react-native-webview" external.linked.project.path="$MODULE_DIR$/../../../../node_modules/react-native-webview/android" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="gremista" external.system.module.version="unspecified" type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":react-native-webview" />
+        <option name="LAST_SUCCESSFUL_SYNC_AGP_VERSION" value="4.2.1" />
+        <option name="LAST_KNOWN_AGP_VERSION" value="4.2.1" />
+      </configuration>
+    </facet>
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="assembleDebug" />
+        <option name="COMPILE_JAVA_TASK_NAME" value="compileDebugSources" />
+        <afterSyncTasks>
+          <task>generateDebugSources</task>
+        </afterSyncTasks>
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="MANIFEST_FILE_RELATIVE_PATH" value="/src/main/AndroidManifest.xml" />
+        <option name="RES_FOLDER_RELATIVE_PATH" value="/src/main/res" />
+        <option name="RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/main/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/debug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/rs/debug;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/resValues/debug" />
+        <option name="TEST_RES_FOLDERS_RELATIVE_PATH" value="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/androidTest/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/androidTestDebug/res;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/rs/androidTest/debug;file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/resValues/androidTest/debug" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="PROJECT_TYPE" value="1" />
+      </configuration>
+    </facet>
+    <facet type="kotlin-language" name="Kotlin">
+      <configuration version="4" platform="JVM 1.6" allPlatforms="JVM [1.6]" useProjectSettings="false">
+        <compilerSettings>
+          <option name="additionalArguments" value="-Xallow-no-source-files" />
+        </compilerSettings>
+        <compilerArguments>
+          <option name="destination" value="$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/tmp/kotlin-classes/debug" />
+          <option name="classpath" value="$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/compile_r_class_jar/debug/R.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/20dbe2acf2908dd43f049da7e4b6ff33/jetified-react-native-0.64.2-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/99099b230d24654668ec2d85b2821516/jetified-infer-annotation-0.11.2.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/745c8e54dd54633582f89044f159c266/jetified-jsr305-3.0.2.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/afd728dfd7c468ceec5725ec72ffb4c5/jetified-proguard-annotations-1.14.1.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/82db4cce6297d625235047184cad87f7/jetified-javax.inject-1.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/b6824f5e0f7c11d6470335123aa8b2c4/appcompat-1.0.2-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/624342b71758ae0146c390b4caa9e2dc/webkit-1.4.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/2d162239477a131d8d4a5aaf23bed3a1/fragment-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/01bdb72b996e90737be3831ad8a6c76d/vectordrawable-animated-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/1084a8af92fc43e00f81be96434d59fa/legacy-support-core-ui-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/0c17d761cc1d7cd5f912860b55061ef0/swiperefreshlayout-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/6a27c49d12c7dae4f65c0597337731c7/legacy-support-core-utils-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/7a69e303bf548b0d8eeaa777ca1e633b/vectordrawable-1.0.1-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/446e9cd896b93ac090ecaa0d6946a056/loader-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/f88d54995ab33006aecc4b6fa6f9f76f/viewpager-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/3a67db4d6dfabf9986b1b7febae06fb5/coordinatorlayout-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/d24b6bc16833969847fd5908ff407c08/drawerlayout-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/880fadf4d4b61f65af4deb12c2fd2d85/slidingpanelayout-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/470cf6170806f979f41ba8d7abaa1149/customview-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/4bfb19490aabb726f7765b7694297b93/asynclayoutinflater-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/43d86ac7fb999c55e011fdbe231e4b50/core-1.1.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/7ea62cfd355f74762ead36fca5678733/versionedparcelable-1.1.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/modules-2/files-2.1/androidx.collection/collection/1.0.0/42858b26cafdaa69b6149f45dfc2894007bc2c7a/collection-1.0.0.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/7768010e62777a2788f2bb3a335d21d9/cursoradapter-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/195e6060826bd0c722f9b796ec062f0d/interpolator-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/130f2af46d4f7bf77513fb401b4e484a/documentfile-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/cbb6d673e3e8a78af72557565c929c47/localbroadcastmanager-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/ad82cfe5d1f6aa89249e2611b232785c/print-1.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/8140553ff20c8680a6254b94eb09ecf9/lifecycle-viewmodel-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/830a3184a1681ac354d6543326352eab/lifecycle-runtime-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/441ccbc9113e317511b18833b0338346/lifecycle-livedata-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/abf4a5e44b85dbaf6d8c2749ab93a567/lifecycle-livedata-core-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/42bde2506d0b75702783ed6106384f2c/core-runtime-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.0.0/bb21b9a11761451b51624ac428d1f1bb5deeac38/core-common-2.0.0.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.0.0/e070ffae07452331bc5684734fce6831d531785c/lifecycle-common-2.0.0.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/modules-2/files-2.1/androidx.annotation/annotation/1.1.0/e3a6fb2f40e3a3842e6b7472628ba4ce416ea4c8/annotation-1.1.0.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/f3ebe4f9fcc750cd6b4593f948639f03/jetified-fresco-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/57385dd09237dea027606cbab4817899/jetified-fbcore-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/ece56a084a0f0aa6c72e64423a4844c1/jetified-drawee-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/c39e2919d08ef1019e043c1582887f4f/jetified-imagepipeline-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/738349dc5ef338d20506a917eb0fbd55/jetified-imagepipeline-base-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/9e71f3c225068f7355836ff4c6eab1e3/jetified-soloader-0.9.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/d0d488eb10880452fe63a63715d4ea6f/jetified-annotation-0.9.0.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/72927f8d9d9e5f453ee722505eb428ae/jetified-nativeloader-0.9.0.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/2d136703183e940cb826f4d149d86901/jetified-nativeimagefilters-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/01ffc70f1b2513134774c0b98bfd43ca/jetified-nativeimagetranscoder-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/cc018b3e365ba12adff1e93fe8f447ba/jetified-imagepipeline-okhttp3-2.0.0-api.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/5abf8751723f2f32fff9b3507f117871/jetified-okhttp-urlconnection-3.12.12.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/4486428b18b8d2e9f0f66af44f920eda/jetified-okhttp-3.12.12.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/1ea8f3fd2ae51799bd273dfd74eb9244/jetified-okio-1.17.5.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/014d3586c965e7c41dcf857b4bb91634/jetified-fbjni-java-only-0.0.3.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/49152f15a60a9e3d2314ce39a79d220a/jetified-kotlin-stdlib-1.3.50.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/7ad3fd49aff572ccbb8b394516a5d1bd/jetified-kotlin-stdlib-common-1.3.50.jar;D:/Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/723bce3cf908da00f9bd0fe9b4b34ab9/jetified-annotations-13.0.jar;C:/Users/BabLoO/AppData/Local/Android/Sdk/platforms/android-31/android.jar;C:/Users/BabLoO/AppData/Local/Android/Sdk/build-tools/30.0.2/core-lambda-stubs.jar" />
+          <option name="noStdlib" value="true" />
+          <option name="noReflect" value="true" />
+          <option name="moduleName" value="react-native-webview_debug" />
+          <option name="jvmTarget" value="1.6" />
+          <option name="languageVersion" value="1.3" />
+          <option name="apiVersion" value="1.3" />
+          <option name="pluginOptions">
+            <array />
+          </option>
+          <option name="pluginClasspaths">
+            <array />
+          </option>
+          <option name="errors">
+            <ArgumentParseErrors />
+          </option>
+        </compilerArguments>
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/javac/debug/classes" />
+    <output-test url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/intermediates/javac/debugUnitTest/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/src/main/res" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/res/resValues/debug" type="java-resource" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/ap_generated_sources/debug/out" isTestSource="false" generated="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build/generated/source/buildConfig/debug" isTestSource="false" generated="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/.gradle" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../../node_modules/react-native-webview/android/build" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android API 31 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Gradle: com.facebook.infer.annotation:infer-annotation:0.11.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.google.code.findbugs:jsr305:3.0.2" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.yoga:proguard-annotations:1.14.1" level="project" />
+    <orderEntry type="library" name="Gradle: javax.inject:javax.inject:1" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.collection:collection:1.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-common:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-common:2.0.0" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.annotation:annotation:1.1.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:annotation:0.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:nativeloader:0.9.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp-urlconnection:3.12.12" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okhttp3:okhttp:3.12.12" level="project" />
+    <orderEntry type="library" name="Gradle: com.squareup.okio:okio:1.17.5" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fbjni:fbjni-java-only:0.0.3" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains.kotlin:kotlin-stdlib-common:1.3.50" level="project" />
+    <orderEntry type="library" name="Gradle: org.jetbrains:annotations:13.0" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.react:react-native:0.64.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.appcompat:appcompat:1.0.2@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.webkit:webkit:1.4.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.fragment:fragment:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable-animated:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-ui:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.swiperefreshlayout:swiperefreshlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.legacy:legacy-support-core-utils:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.vectordrawable:vectordrawable:1.0.1@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.loader:loader:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.viewpager:viewpager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.coordinatorlayout:coordinatorlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.drawerlayout:drawerlayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.slidingpanelayout:slidingpanelayout:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.customview:customview:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.asynclayoutinflater:asynclayoutinflater:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.core:core:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.versionedparcelable:versionedparcelable:1.1.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.cursoradapter:cursoradapter:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.interpolator:interpolator:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.documentfile:documentfile:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.localbroadcastmanager:localbroadcastmanager:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.print:print:1.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.lifecycle:lifecycle-livedata-core:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: androidx.arch.core:core-runtime:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:fresco:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:fbcore:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:drawee:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-base:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.soloader:soloader:0.9.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:nativeimagefilters:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:nativeimagetranscoder:2.0.0@aar" level="project" />
+    <orderEntry type="library" name="Gradle: com.facebook.fresco:imagepipeline-okhttp3:2.0.0@aar" level="project" />
+  </component>
+</module>

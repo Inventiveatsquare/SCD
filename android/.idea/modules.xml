@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/gremista.iml" filepath="$PROJECT_DIR$/.idea/modules/gremista.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/gremista.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/gremista.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/544294128/gremista.react-native-admob_admob.iml" filepath="$PROJECT_DIR$/.idea/modules/544294128/gremista.react-native-admob_admob.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1855696758/gremista.react-native-async-storage_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-1855696758/gremista.react-native-async-storage_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-741180754/gremista.react-native-bootsplash.iml" filepath="$PROJECT_DIR$/.idea/modules/-741180754/gremista.react-native-bootsplash.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2111255238/gremista.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/2111255238/gremista.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1449922359/gremista.react-native-fbsdk-next.iml" filepath="$PROJECT_DIR$/.idea/modules/1449922359/gremista.react-native-fbsdk-next.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1679913996/gremista.react-native-firebase_app.iml" filepath="$PROJECT_DIR$/.idea/modules/-1679913996/gremista.react-native-firebase_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1284651019/gremista.react-native-firebase_auth.iml" filepath="$PROJECT_DIR$/.idea/modules/-1284651019/gremista.react-native-firebase_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1685486383/gremista.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1685486383/gremista.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1496338782/gremista.react-native-google-signin_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-1496338782/gremista.react-native-google-signin_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1065535261/gremista.react-native-linear-gradient.iml" filepath="$PROJECT_DIR$/.idea/modules/-1065535261/gremista.react-native-linear-gradient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-230843733/gremista.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/-230843733/gremista.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/101625082/gremista.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/101625082/gremista.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1905597842/gremista.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1905597842/gremista.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1143785814/gremista.react-native-share.iml" filepath="$PROJECT_DIR$/.idea/modules/-1143785814/gremista.react-native-share.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-105239387/gremista.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-105239387/gremista.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1164540420/gremista.react-native-webview.iml" filepath="$PROJECT_DIR$/.idea/modules/1164540420/gremista.react-native-webview.iml" />
+    </modules>
+  </component>
+</project>

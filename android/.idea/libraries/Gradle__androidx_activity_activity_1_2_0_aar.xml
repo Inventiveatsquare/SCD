@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.activity:activity:1.2.0@aar">
+    <ANNOTATIONS>
+      <root url="jar://$PROJECT_DIR$/../../../../Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/9488464145959a54a6da84160228288f/jetified-activity-1.2.0/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/9488464145959a54a6da84160228288f/jetified-activity-1.2.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/9488464145959a54a6da84160228288f/jetified-activity-1.2.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/9488464145959a54a6da84160228288f/jetified-activity-1.2.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/modules-2/files-2.1/androidx.activity/activity/1.2.0/db99858022040027c637fdf623d4db4d7823e60b/activity-1.2.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

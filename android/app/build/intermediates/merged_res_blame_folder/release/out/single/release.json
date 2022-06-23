@@ -1,0 +1,354 @@
+[
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_materialicons.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialicons.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_characterentitieshtml4_index.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_characterentitieshtml4_index.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_bootsplash_logo.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\bootsplash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_arrow.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_arrow.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable_bootsplash.xml.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\drawable\\bootsplash.xml"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstarselected.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_airbnbstarselected.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_blog01.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_blog01.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_bootsplash_logo.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-mdpi\\bootsplash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_bootsplash_logo.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-hdpi\\bootsplash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_fontisto.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontisto.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backiconmask.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backiconmask.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_evilicons.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_evilicons.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_ionicons.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_ionicons.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_foundation.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_foundation.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_app.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\app.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeratings_dist_images_rocket.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_rocket.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_domserializer_node_modules_entities_lib_maps_legacy.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_domserializer_node_modules_entities_lib_maps_legacy.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_logo.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_blog04.jpg.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_blog04.jpg"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-hdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeratings_dist_images_airbnbstar.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_airbnbstar.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_bootsplash_logo.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\bootsplash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_domserializer_node_modules_entities_lib_maps_entities.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_domserializer_node_modules_entities_lib_maps_entities.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_antdesign.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_antdesign.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeratings_dist_images_bell.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_bell.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeratings_dist_images_heart.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_heart.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_bootsplash_logo.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xhdpi\\bootsplash_logo.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_csscolorkeywords_colors.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_csscolorkeywords_colors.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_zocial.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_zocial.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_domserializer_node_modules_entities_lib_maps_xml.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_domserializer_node_modules_entities_lib_maps_xml.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_domserializer_node_modules_entities_lib_maps_decode.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_domserializer_node_modules_entities_lib_maps_decode.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_blog02.jpg.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_blog02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_feather.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_feather.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_success.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_fontawesome5free_meta.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_stringifyentities_lib_constant_dangerous.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_stringifyentities_lib_constant_dangerous.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_drawer_src_views_assets_toggledrawericon.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_info.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_characterentitieslegacy_index.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_characterentitieslegacy_index.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_danger.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_octicons.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_octicons.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_notification.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_notification.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnativeratings_dist_images_star.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnativeratings_dist_images_star.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_src_assets_images_blog03.jpg.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\src_assets_images_blog03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-mdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\raw_node_modules_reactnativevectoricons_glyphmaps_entypo.json.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\raw\\node_modules_reactnativevectoricons_glyphmaps_entypo.json"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_node_modules_reactnavigation_stack_src_views_assets_backicon.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xxhdpi\\node_modules_reactnavigation_stack_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\inven\\andbuild\\android\\app\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png.flat",
+        "source": "C:\\Users\\inven\\andbuild\\android\\app\\build\\generated\\res\\react\\release\\drawable-xhdpi\\node_modules_reactnativeflashmessage_src_icons_fm_icon_warning.png"
+    }
+]

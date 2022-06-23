@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: androidx.lifecycle:lifecycle-viewmodel:2.3.0@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/fd3b45bc41af5b136051a6d3994112ea/lifecycle-viewmodel-2.3.0/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../../../../Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/fd3b45bc41af5b136051a6d3994112ea/lifecycle-viewmodel-2.3.0/res" />
+      <root url="file://$PROJECT_DIR$/../../../../Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/transforms-2/files-2.1/fd3b45bc41af5b136051a6d3994112ea/lifecycle-viewmodel-2.3.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../Books nd Resources/Courses/JavaScript/Frameworks/Front-End/React Native/Projects/NATIVE-CLI/cryptocurrency-app/android/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.3.0/55d6fa3541ca02167b0bd62a16fbdaec2a71622/lifecycle-viewmodel-2.3.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
